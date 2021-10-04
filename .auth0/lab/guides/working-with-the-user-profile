@@ -1,0 +1,24 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "1: Working with the user profile",
+  "steps": [
+    {
+      "file": "README.md",
+      "line": 1,
+      "title": "What you'll do"
+      "description": "staged"
+    },
+    {
+      "file": "README.md",
+      "line": 1,
+      "title": "Practice with the user profile",
+      "description": "staged"
+    },
+    {
+      "file": "README.md",
+      "line": 1,
+      "title": "Recap",
+      "description": "staged"
+    }
+  ]
+}
