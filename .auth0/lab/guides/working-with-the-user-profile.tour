@@ -11,8 +11,26 @@
     {
       "file": "README.md",
       "line": 1,
-      "title": "Practice with the user profile",
+      "title": "Find a user",
       "description": "staged"
+    },
+    {
+      "file": "README.md",
+      "line": 1,
+      "title": "Change user parameters",
+      "description": ""
+    },
+    {
+      "file": "README.md",
+      "line": 1,
+      "title": "Retrieve any user profile from the Management API",
+      "description": ""
+    },
+    {
+      "file": "README.md",
+      "line": 1,
+      "title": "Update app and user metadata",
+      "description": ""
     },
     {
       "file": "README.md",
