@@ -6,13 +6,13 @@
       "file": "README.md",
       "line": 1,
       "title": "What you'll do",
-      "description": "staged"
+      "description": "## What you'll learn\n\n**Here's what you'll do:**\n\n* Retrieve the normalized profile from the userinfo endpoint\n* Update app metadata\n* Update user metadata"
     },
     {
       "file": "README.md",
       "line": 1,
       "title": "Find a user",
-      "description": "staged"
+      "description": "d"
     },
     {
       "file": "README.md",
