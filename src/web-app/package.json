@@ -1,17 +1,17 @@
 {
   "name": "labs-node-oidc-authentication-trace",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Auth0 Labs Sample Web Application",
   "license": "MIT",
   "author": "Auth0",
   "bugs": {
-    "url": "https://github.com/auth0-training/labs-node-oidc-authentication-trace/issues"
+    "url": "https://github.com/auth0-training/labs-node-working-with-the-user-profile/issues"
   },
-  "homepage": "https://github.com/auth0-training/labs-node-oidc-authentication-trace#readme",
+  "homepage": "https://github.com/auth0-training/labs-node-working-with-the-user-profile#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auth0-training/labs-node-oidc-authentication-trace.git"
+    "url": "git+https://github.com/auth0-training/labs-node-working-with-the-user-profile.git"
   },
   "scripts": {
     "start": "PORT=$npm_package_config_port SESSION_SECRET=$npm_package_config_session_secret node index"
