@@ -1,6 +1,6 @@
 # Lab: Work with Auth0 User Profile Data
 
-This [Okta Learning](https://learning.okta.com/) hands-on lab is all about working with users. Learners will navigate within the Auth0 dashboard and APIs to manipulate user data.
+In this [Okta Learning](https://learning.okta.com/) hands-on lab, learn how to manage and extend the Auth0 normalized user profile from the dashboard and with the Auth0 Management API.
 
 --- 
 
